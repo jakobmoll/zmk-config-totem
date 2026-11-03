@@ -1,5 +1,5 @@
 # Totem Keyboard - ZMK Firmware Configuration
-test
+
 ![Icon](icon-256.png)
 
 Custom ZMK firmware configuration for the [GEIST Totem](https://github.com/GEIGEIGEIST/TOTEM) split keyboard with Seeeduino XIAO BLE controllers.
